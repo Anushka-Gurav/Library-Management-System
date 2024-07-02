@@ -3,9 +3,9 @@ Advance Java Project - Book Haven
 
 Table of Contents 
 ---------------------------------
-General Info
-Technologies
-Applications required
+1)General Info
+ 2)Technologies
+ 3)Applications required
 
 General Info
 ---------------------------------
